@@ -53,6 +53,7 @@ function hasCollided(Lbullet,Lwall)
   {
     return true;
   }
+  else
   return false;
-
+}
   
